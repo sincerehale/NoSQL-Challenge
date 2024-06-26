@@ -110,5 +110,3 @@ Hint: You will need to compare the geocode to find the nearest locations. Search
 How many establishments in each Local Authority area have a hygiene score of 0? Sort the results from highest to lowest, and print out the top ten local authority areas.
 
 Hint: You will need to use the aggregation method to answer this.
-
-The first 5 rows of your resulting DataFrame should look something like this:
